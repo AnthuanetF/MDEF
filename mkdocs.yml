@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Anthuanet Falcón - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_author: Anthuanet Falcón
+copyright: Copyleft 2023 "Anthuanet Falcón" - GNU Free Documentation License
+repo_name: 'Name : MDEF'
+site_url: https://anthuanetf.github.io/MDEF/
+repo_url: 'https://github.com/AnthuanetF/MDEF'
 
 
 nav:
@@ -17,6 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - The Machine Paradox: term1/03-machine.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -28,8 +29,6 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/
     - icon: fontawesome/brands/twitter
