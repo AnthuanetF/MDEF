@@ -8,7 +8,6 @@
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
-
 }
 
 
@@ -40,3 +39,5 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+mkdocs serve
